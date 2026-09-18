@@ -12,14 +12,14 @@
 ![](https://streak-stats.demolab.com/?user=adarshpatil3900-png&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adarshpatil3900-png&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adarshpatil3900-png&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adarshpatil3900-png&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
 
 ### Once a legend said :
 > "Talk is cheap. Show me the code."
 > — Linus Torvalds
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adarshpatil3900-png&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 👀 Profile Views
