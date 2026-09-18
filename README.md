@@ -15,13 +15,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adarshpatil3900-png&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Once a legend said :
+> "Talk is cheap. Show me the code."
+> — Linus Torvalds
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adarshpatil3900-png&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+### 👀 Profile Views
 [![](https://komarev.com/ghpvc/?username=adarshpatil3900-png&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
