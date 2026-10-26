@@ -22,7 +22,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adarshpatil-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!--### 👀 Profile Views
+### 👀 Profile Views
 [![](https://komarev.com/ghpvc/?username=adarshpatil-07&icon=6&color=8)](https://visitcount.itsvg.in)
+
+
+## 🐍 Watch My Contributions Get Eaten!
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake.svg)
+
 
 
