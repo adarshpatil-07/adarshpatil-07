@@ -23,7 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=adarshpatil-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=adarshpatil-07&color=808080&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=adarshpatil-07&label=PROFILE%20VIEWS&color=0e75b6&labelColor=1a1b27&style=for-the-badge)
 
 
 ## 🐍 Feeding on My Contributions
