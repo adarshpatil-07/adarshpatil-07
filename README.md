@@ -1,3 +1,17 @@
+<h1 align="center">Adarsh Patil</h1>
+<p align="center">
+  <b>Full-Stack Developer · AI Engineer · Tech for Good</b><br/>
+  Building resilient technology and learning new things in tech everyday
+</p>
+
+<p align="center">
+  <a href="https://adarshpatil-dev.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/adarshpatil07/">LinkedIn</a> •
+  <a href="mailto:adarshpatil.tech07@gmail.com">Email</a>
+</p>
+
+---
+
 # 💫 About Me:
 ### I'm a Computer Engineering student focused on building a strong foundation in software development, with a growing interest in **AI/ML and modern web technologies**.<br><br>I work primarily with **Python, JavaScript, React, Django, SQL, and PostgreSQL**, and I enjoy turning ideas into practical, well-structured applications. I'm also exploring **Docker, Linux, APIs, and data analysis** while continuously sharpening my problem-solving and programming skills.<br><br>Currently, I'm focused on strengthening my **DSA and software engineering fundamentals**, building real-world projects, and expanding my knowledge of **AI/ML**.<br><br>**Tech Stack:** Python · JavaScript · React · Django · SQL · PostgreSQL · HTML · CSS · Tailwind CSS · Docker · Git/GitHub
 
