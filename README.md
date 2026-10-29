@@ -1,14 +1,17 @@
- <h1 align="center">Adarsh Patil</h1>
-<p align="center">
-  <b>Full-Stack Developer · AI/ML Enthusiast · Problem Solver</b><br/>
-  Turning ideas into useful software, one project at a time.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://adarshpatil-dev.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/adarshpatil07/">LinkedIn</a> •
-  <a href="mailto:adarshpatil.tech07@gmail.com">Email</a>
-</p>
+# Adarsh Patil
+
+**Full-Stack Developer · AI/ML Enthusiast · Problem Solver**
+
+Building software. Solving problems. Always learning.
+
+[Portfolio](https://adarshpatil-dev.vercel.app/) •
+[LinkedIn](https://www.linkedin.com/in/adarshpatil07/) •
+[Email](mailto:adarshpatil.tech07@gmail.com)
+
+</div>
+
 
 ---
 
