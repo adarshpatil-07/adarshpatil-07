@@ -1,7 +1,7 @@
-<h1 align="center">Adarsh Patil</h1>
+ <h1 align="center">Adarsh Patil</h1>
 <p align="center">
-  <b>Full-Stack Developer · AI Engineer · Tech for Good</b><br/>
-  Building resilient technology and learning new things in tech everyday
+  <b>Full-Stack Developer · AI/ML Enthusiast · Problem Solver</b><br/>
+  Turning ideas into useful software, one project at a time.
 </p>
 
 <p align="center">
