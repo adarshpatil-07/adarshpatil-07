@@ -96,6 +96,10 @@ Building software. Solving problems. Always learning.
 <!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adarshpatil-07&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
 
+## 🏆 GitHub Trophies
+
+![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+
 ### Once a legend said :
 > "Talk is cheap. Show me the code."
 > — Linus Torvalds
