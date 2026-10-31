@@ -25,7 +25,7 @@ Building software. Solving problems. Always learning.
 <tr>
 <td align="center" width="100">
 <a href="https://www.linkedin.com/in/adarshpatil07/">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="28" height="28" alt="LinkedIn">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="28" height="28" alt="LinkedIn"><br>
 <b>LinkedIn</b>
 </a>
 </td>
@@ -45,6 +45,12 @@ Building software. Solving problems. Always learning.
 <a href="https://codeforces.com/profile/adarshpatil.tech07">
 <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="28" height="28" alt="Codeforces"><br>
 <b>Codeforces</b>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X"><br>
+<b>X (Twitter)</b>
 </a>
 </td>
 </tr>
