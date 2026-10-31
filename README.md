@@ -8,7 +8,9 @@ Building software. Solving problems. Always learning.
 
 [Portfolio](https://adarshpatil-dev.vercel.app/) •
 [LinkedIn](https://www.linkedin.com/in/adarshpatil07/) •
-[Email](mailto:adarshpatil.tech07@gmail.com)
+[Email](mailto:adarshpatil.tech07@gmail.com) •
+[X (Twitter)](https://x.com/AdarshBuilds07) •
+
 
 </div>
 
@@ -48,7 +50,7 @@ Building software. Solving problems. Always learning.
 </a>
 </td>
 <td align="center" width="100">
-<a href="https://x.com/YOUR_USERNAME">
+<a href="https://x.com/AdarshBuilds07">
 <img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X"><br>
 <b>X (Twitter)</b>
 </a>
