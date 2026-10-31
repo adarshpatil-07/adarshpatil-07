@@ -19,8 +19,37 @@ Building software. Solving problems. Always learning.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshpatil07/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshpatil.tech07@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/adarshpatil07/) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/adarshpatil.tech07)
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100">
+<a href="https://www.linkedin.com/in/adarshpatil07/">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn"><br>
+<b>LinkedIn</b>
+</a>
+</td>
+<td align="center" width="100">
+<a href="mailto:adarshpatil.tech07@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email"><br>
+<b>Email</b>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://leetcode.com/u/adarshpatil07/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode"><br>
+<b>LeetCode</b>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://codeforces.com/profile/adarshpatil.tech07">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="28" height="28" alt="Codeforces"><br>
+<b>Codeforces</b>
+</a>
+</td>
+</tr>
+</table>
+</div>
 
 # 💻 Tech Stack
 
