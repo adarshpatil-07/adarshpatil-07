@@ -25,7 +25,7 @@ Building software. Solving problems. Always learning.
 <tr>
 <td align="center" width="100">
 <a href="https://www.linkedin.com/in/adarshpatil07/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn"><br>
+<img src="https://img.icons8.com/color/48/linkedin.png" width="28" height="28" alt="LinkedIn">
 <b>LinkedIn</b>
 </a>
 </td>
