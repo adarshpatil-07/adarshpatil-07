@@ -107,7 +107,7 @@ Building software. Solving problems. Always learning.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45" alt="Netlify"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="45" alt="Render"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="45" alt="Render"/>
 </p>
 
 ### 🛠️ Tools & Version Control
