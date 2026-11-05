@@ -134,9 +134,9 @@ Building software. Solving problems. Always learning.
 ![](https://github-profile-trophy.vercel.app/?username=adarshpatil-07&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
 
 ## 🏆 GitHub Trophies
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
+<p>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
+</p>
 
 ### Once a legend said :
 > "Talk is cheap. Show me the code."
