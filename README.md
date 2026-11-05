@@ -135,7 +135,8 @@ Building software. Solving problems. Always learning.
 
 ## 🏆 GitHub Trophies
 
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
 
 ### Once a legend said :
 > "Talk is cheap. Show me the code."
