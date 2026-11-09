@@ -1,11 +1,20 @@
+<h1 align="center">Hi there 👋, I'm Adarsh Patil</h1>
+
+<p align="center">
+  <a href="https://gitcon.infornics.com/user/adarshpatil-07">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58AAB0&center=true&vCenter=true&width=435&lines=Passionate%20Full%20Stack%20Developer%20%F0%9F%9A%80;Open%20Source%20Contributor%20%26%20Builder%20%F0%9F%92%BB;Exploring%20Modern%20Systems%20%26%20AI%20%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gitcon.infornics.com/user/adarshpatil-07">
+    <img src="https://img.shields.io/badge/Gitcon-Profile_&_Stats-58aab0?style=for-the-badge&logo=github&logoColor=white" alt="Gitcon Profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=adarshpatil-07&label=Profile%20Views&color=58aab0&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <div align="center">
-
-# Adarsh Patil
-
-**Full-Stack Developer · AI/ML Enthusiast · Problem Solver**
-
-Building software. Solving problems. Always learning.
-
+  
 [Portfolio](https://adarshpatil-dev.vercel.app/) •
 [LinkedIn](https://www.linkedin.com/in/adarshpatil07/) •
 [Email](mailto:adarshpatil.tech07@gmail.com) •
