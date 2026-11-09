@@ -160,17 +160,12 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/>
 </p>
 
-### Once a legend said :
-> "Talk is cheap. Show me the code."
-> — Linus Torvalds
-
 ### 🔝 Top Contributed Repo
 ![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=adarshpatil-07&limit=5&order_by=contributions&theme=github_dark)
 
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=adarshpatil-07&label=PROFILE%20VIEWS&color=0e75b6&labelColor=1a1b27&style=for-the-badge)
-
+### Once a legend said :
+> "Talk is cheap. Show me the code."
+> — Linus Torvalds
 
 ## 🐍 Feeding on My Contributions
 
