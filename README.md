@@ -119,22 +119,19 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <a href="https://gitcon.infornics.com/user/adarshpatil-07">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=adarshpatil-07&show_icons=true&theme=dark&hide_border=false" alt="adarshpatil-07's GitHub Stats" />
+  <a href="https://github.com/adarshpatil-07">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=adarshpatil-07&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
   </a>
-  <a href="https://gitcon.infornics.com/user/adarshpatil-07">
-    <img height="180em" src="https://streak-stats.demolab.com?user=adarshpatil-07&theme=dark&hide_border=false" alt="adarshpatil-07's GitHub Streak" />
+  <a href="https://github.com/adarshpatil-07">
+    <img height="180em" src="https://streak-stats.demolab.com?user=adarshpatil-07&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://gitcon.infornics.com/user/adarshpatil-07">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=adarshpatil-07&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <a href="https://github.com/adarshpatil-07">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=adarshpatil-07&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
   </a>
 </p>
-
-<!--### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adarshpatil-07&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
 
 ## 🏆 GitHub Trophies
 <p>
