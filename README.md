@@ -21,7 +21,6 @@
 [X](https://x.com/AdarshBuilds07) •
 
 
-</div>
 
 ---
 
