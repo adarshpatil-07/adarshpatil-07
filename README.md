@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Adarsh Patil</h1>
+
 
 <p align="center">
   <a href="https://gitcon.infornics.com/user/adarshpatil-07">
