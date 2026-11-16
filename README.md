@@ -25,8 +25,9 @@
 
 ---
 
-# About Me
-### I'm a Computer Engineering student focused on building a strong foundation in software development, with a growing interest in **AI/ML and modern web technologies**.<br><br>I work primarily with **Python, JavaScript, React, Django, SQL, and PostgreSQL**, and I enjoy turning ideas into practical, well-structured applications. I'm also exploring **Docker, Linux, APIs, and data analysis** while continuously sharpening my problem-solving and programming skills.<br><br>Currently, I'm focused on strengthening my **DSA and software engineering fundamentals**, building real-world projects, and expanding my knowledge of **AI/ML**.<br><br>**Tech Stack:** Python · JavaScript · React · Django · SQL · PostgreSQL · HTML · CSS · Tailwind CSS · Docker · Git/GitHub
+## About Me
+
+### I'm Adarsh, a Computer Engineering student building full-stack products and AI tools, exploring AI agents, and contributing to open source.<br><br>I work primarily with **React, TanStack Start, Tailwind CSS, Node.js, FastAPI, and Django**, backed by **PostgreSQL and MongoDB**. For AI work, I use **Python, LangChain, vector databases, and Streamlit**. I enjoy taking an idea from the initial concept all the way to a deployed product.<br><br>Beyond coding, I enjoy reading philosophy and literature, writing about technology and ideas, and playing chess. I also document what I learn and contribute to open source.<br><br>Currently seeking **internship opportunities** to gain practical experience and grow as a developer.
 
 
 ## 🌐 Socials
