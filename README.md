@@ -23,47 +23,18 @@
 </div>
 
 ---
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<p>
-  <big>
-    I'm Adarsh, a <strong>Computer Engineering student</strong> building
-    <strong>full-stack products and AI tools</strong>, exploring
-    <strong>AI agents</strong>, and contributing to <strong>open source</strong>.
-  </big>
-</p>
+## I'm Adarsh, a **Computer Engineering student** building **full-stack products and AI tools**, exploring **AI agents**, and contributing to **open source**.
 
-<p>
-  <big>
-    I work primarily with
-    <code>React</code>, <code>TanStack Start</code>, <code>Tailwind CSS</code>,
-    <code>Node.js</code>, <code>FastAPI</code>, and <code>Django</code>,
-    backed by <code>PostgreSQL</code> and <code>MongoDB</code>.
-    For AI work, I use <code>Python</code>, <code>LangChain</code>,
-    <code>vector databases</code>, and <code>Streamlit</code>.
-    I enjoy taking an idea from the initial concept all the way to a
-    <strong>deployed product</strong>.
-  </big>
-</p>
+## I work primarily with `React`, `TanStack Start`, `Tailwind CSS`, `Node.js`, `FastAPI`, and `Django`, backed by `PostgreSQL` and `MongoDB`. For AI work, I use `Python`, `LangChain`, `vector databases`, and `Streamlit`. I enjoy taking an idea from the initial concept all the way to a **deployed product**.
 
-<p>
-  <big>
-    Beyond coding, I enjoy reading <strong>philosophy and literature</strong>,
-    writing about technology and ideas, and playing <strong>chess</strong>.
-    I also document what I learn and contribute to <strong>open source</strong>.
-  </big>
-</p>
+## Beyond coding, I enjoy reading **philosophy and literature**, writing about technology and ideas, and playing **chess**. I also document what I learn and contribute to **open source**.
 
-<p>
-  <big>
-    Currently seeking <strong>internship opportunities</strong> to gain
-    practical experience and grow as a developer.
-  </big>
-</p>
-
+## Currently seeking **internship opportunities** to gain practical experience and grow as a developer.
 ---
 
-## 🌐 Socials
+# 🌐 Socials
 
 <div align="center">
 <table>
