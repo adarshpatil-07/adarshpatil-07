@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gitcon.infornics.com/user/adarshpatil-07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58AAB0&center=true&vCenter=true&width=435&lines=Passionate%20Full%20Stack%20Developer%20%F0%9F%9A%80;Open%20Source%20Contributor%20%26%20Builder%20%F0%9F%92%BB;Exploring%20Modern%20Systems%20%26%20AI%20%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58AAB0&center=true&vCenter=true&width=500&lines=Passionate%20Full%20Stack%20Developer%20%F0%9F%9A%80;Open%20Source%20Contributor%20%26%20Builder%20%F0%9F%92%BB;Exploring%20Modern%20Systems%20%26%20AI%20%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,12 +14,11 @@
 </p>
 
 <div align="center">
-  
+
 [Portfolio](https://adarshpatil-dev.vercel.app/) •
 [LinkedIn](https://www.linkedin.com/in/adarshpatil07/) •
 [Email](mailto:adarshpatil.tech07@gmail.com) •
-[X](https://x.com/AdarshBuilds07) •
-
+[X](https://x.com/AdarshBuilds07)
 
 </div>
 
@@ -27,8 +26,15 @@
 
 ## About Me
 
-### I'm Adarsh, a Computer Engineering student building full-stack products and AI tools, exploring AI agents, and contributing to open source.<br><br>I work primarily with **React, TanStack Start, Tailwind CSS, Node.js, FastAPI, and Django**, backed by **PostgreSQL and MongoDB**. For AI work, I use **Python, LangChain, vector databases, and Streamlit**. I enjoy taking an idea from the initial concept all the way to a deployed product.<br><br>Beyond coding, I enjoy reading philosophy and literature, writing about technology and ideas, and playing chess. I also document what I learn and contribute to open source.<br><br>Currently seeking **internship opportunities** to gain practical experience and grow as a developer.
+I'm Adarsh, a Computer Engineering student building full-stack products and AI tools, exploring AI agents, and contributing to open source.
 
+I work primarily with **React, TanStack Start, Tailwind CSS, Node.js, FastAPI, and Django**, backed by **PostgreSQL and MongoDB**. For AI work, I use **Python, LangChain, vector databases, and Streamlit**. I enjoy taking an idea from the initial concept all the way to a deployed product.
+
+Beyond coding, I enjoy reading philosophy and literature, writing about technology and ideas, and playing chess. I also document what I learn and contribute to open source.
+
+Currently seeking **internship opportunities** to gain practical experience and grow as a developer.
+
+---
 
 ## 🌐 Socials
 
@@ -62,16 +68,19 @@
 <td align="center" width="100">
 <a href="https://x.com/AdarshBuilds07">
 <img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X"><br>
-<b>X </b>
+<b>X</b>
 </a>
 </td>
 </tr>
 </table>
 </div>
 
+---
+
 # 💻 Tech Stack
 
 ### 💻 Languages
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
@@ -82,6 +91,7 @@
 </p>
 
 ### 🌐 Full Stack
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="45" alt="TanStack"/>
@@ -96,6 +106,7 @@
 </p>
 
 ### 🤖 AI / ML
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
@@ -106,6 +117,7 @@
 </p>
 
 ### 🛠️ Tools & Deployment
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45" alt="GitHub Actions"/>
@@ -117,8 +129,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva"/>
 </p>
 
+---
 
 # 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/adarshpatil-07">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=adarshpatil-07&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
@@ -134,19 +148,31 @@
   </a>
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
-<p>
+
+<p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/>
 </p>
 
-### 🔝 Top Contributed Repo
+---
+
+## 🔝 Top Contributed Repo
+
 ![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=adarshpatil-07&limit=5&order_by=contributions&theme=github_dark)
 
-### Once a legend said :
+---
+
+### Quote
+
 > "Talk is cheap. Show me the code."
+>
 > — Linus Torvalds
+
+---
 
 ## 🐍 Feeding on My Contributions
 
@@ -155,9 +181,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
-
