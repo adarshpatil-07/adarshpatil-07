@@ -14,12 +14,7 @@
 </p>
 
 <div align="center">
-
-[Portfolio](https://adarshpatil-dev.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/adarshpatil07/) •
-[Email](mailto:adarshpatil.tech07@gmail.com) •
-[X](https://x.com/AdarshBuilds07)
-
+  
 </div>
 
 ---
