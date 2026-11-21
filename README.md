@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://adarshpatil.runs-on.dev/assets/itachi-banner-C3a-EJ49.jpg"
+    src="https://ibb.co/TDgytCJL"
     alt="Web Developer Banner"
     width="90%"
     style="aspect-ratio: 3.3 / 1; object-fit: cover;"
