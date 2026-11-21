@@ -1,7 +1,14 @@
-![Profile image ](https://adarshpatil.runs-on.dev/assets/itachi-banner-C3a-EJ49.jpg)
+<p align="center">
+  <img
+    src="https://adarshpatil.runs-on.dev/assets/itachi-banner-C3a-EJ49.jpg"
+    alt="Web Developer Banner"
+    width="90%"
+    height="150px"
+    style="object-fit: cover;"
+  />
+</p>
 
-
-<h1 align="center">Hi there 👋, I'm Adarsh Patil</h1>
+<h1 align="center"> Adarsh Patil</h1>
 
 <p align="center">
   <a href="https://gitcon.infornics.com/user/adarshpatil-07">
