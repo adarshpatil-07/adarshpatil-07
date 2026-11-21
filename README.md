@@ -1,11 +1,5 @@
-<p align="center">
-  <img
-    src="https://yourimageshare.com/ib/NpcbdGobtS"
-    alt="Web Developer Banner"
-    width="90%"
-    style="aspect-ratio: 3.3 / 1; object-fit: cover;"
-  />
-</p>
+<img width="1600" height="478" alt="image" src="https://github.com/user-attachments/assets/2908b6e8-df98-4613-a3db-3784bdb08b1d" />
+
 
 </p><h1 align="center">Adarsh Patil</h1><p align="center">
   <a href="https://gitcon.infornics.com/user/adarshpatil-07">
