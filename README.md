@@ -1,3 +1,6 @@
+![Profile image ](https://adarshpatil.runs-on.dev/assets/itachi-banner-C3a-EJ49.jpg)
+
+
 <h1 align="center">Hi there 👋, I'm Adarsh Patil</h1>
 
 <p align="center">
