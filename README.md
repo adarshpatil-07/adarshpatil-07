@@ -3,9 +3,10 @@
     src="https://adarshpatil.runs-on.dev/assets/itachi-banner-C3a-EJ49.jpg"
     alt="Web Developer Banner"
     width="90%"
-    height="150px"
-    style="object-fit: cover;"
+    style="aspect-ratio: 3.3 / 1; object-fit: cover;"
   />
+</p>
+
 </p><h1 align="center">Adarsh Patil</h1><p align="center">
   <a href="https://gitcon.infornics.com/user/adarshpatil-07">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58AAB0&center=true&vCenter=true&width=500&lines=Passionate%20Full%20Stack%20Developer%20%F0%9F%9A%80;Open%20Source%20Contributor%20%26%20Builder%20%F0%9F%92%BB;Exploring%20Modern%20Systems%20%26%20AI%20%E2%9A%A1" alt="Typing SVG" />
