@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://ibb.co/TDgytCJL"
+    src="https://drive.google.com/file/d/1VwEswCtIhNFnnAAaldw9pdKGgEXyf_Lj/view?usp=drivesdk"
     alt="Web Developer Banner"
     width="90%"
     style="aspect-ratio: 3.3 / 1; object-fit: cover;"
