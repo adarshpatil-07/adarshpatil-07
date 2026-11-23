@@ -114,21 +114,18 @@ I like taking an idea from a random thought all the way to something live on the
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-card.vercel.app/api?username=adarshpatil-07&limit=5&order_by=contributions&theme=github_dark" alt="Top contributed repositories" />
+  <img src="https://streak-stats.demolab.com/?user=adarshpatil-07&theme=dark&background=0d1117&ring=58aab0&fire=58aab0&currStreakLabel=58aab0&hide_border=true" height="170" alt="Streak Stats" />
+  <img src="https://github-contribution-card.vercel.app/api?username=adarshpatil-07&limit=5&order_by=contributions&theme=github_dark" height="170" alt="Top contributed repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshpatil-07&bg_color=0d1117&color=58aab0&line=58aab0&point=ffffff&area=true&area_color=58aab0&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64" alt="YOLO"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64" alt="Pull Shark"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" alt="Quickdraw"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
 </p>
 
 ---
