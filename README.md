@@ -1,6 +1,5 @@
 <img width="1600" height="478" alt="image" src="https://github.com/user-attachments/assets/2908b6e8-df98-4613-a3db-3784bdb08b1d" />
 
-
 </p><h1 align="center">Adarsh Patil</h1><p align="center">
   <a href="https://gitcon.infornics.com/user/adarshpatil-07">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58AAB0&center=true&vCenter=true&width=500&lines=Passionate%20Full%20Stack%20Developer%20%F0%9F%9A%80;Open%20Source%20Contributor%20%26%20Builder%20%F0%9F%92%BB;Exploring%20Modern%20Systems%20%26%20AI%20%E2%9A%A1" alt="Typing SVG" />
