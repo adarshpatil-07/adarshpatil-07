@@ -1,4 +1,7 @@
-![Profile Banner](https://github.com/user-attachments/assets/2908b6e8-df98-4613-a3db-3784bdb08b1d)
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2908b6e8-df98-4613-a3db-3784bdb08b1d" width="1600" height="430" alt="Adarsh Patil Banner" />
+</p>
 
 <h1 align="center">Adarsh Patil</h1>
 
@@ -17,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 01 / 👨‍💻 About Me
 
 I'm Adarsh, a **Computer Engineering student** building **full-stack products and AI tools**, exploring **AI agents**, and contributing to **open source**.
 
@@ -29,48 +32,7 @@ Currently seeking **internship opportunities** to gain practical experience and 
 
 ---
 
-## 🌐 Socials
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <a href="https://www.linkedin.com/in/adarshpatil07/">
-          <img src="https://img.icons8.com/color/48/linkedin.png" width="28" height="28" alt="LinkedIn"><br>
-          <b>LinkedIn</b>
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="mailto:adarshpatil.tech07@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email"><br>
-          <b>Email</b>
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://leetcode.com/u/adarshpatil07/">
-          <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode"><br>
-          <b>LeetCode</b>
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://codeforces.com/profile/adarshpatil.tech07">
-          <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="28" height="28" alt="Codeforces"><br>
-          <b>Codeforces</b>
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://x.com/AdarshBuilds07">
-          <img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X"><br>
-          <b>X</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💻 Tech Stack
+## 02 / 💻 Tech Stack
 
 **💻 Languages**
 
@@ -124,17 +86,62 @@ Currently seeking **internship opportunities** to gain practical experience and 
 
 ---
 
-## 📊 GitHub Stats
+## 03 / 🌐 Socials
 
-<p align="center">
-  <a href="https://gitshine.com/stats/adarshpatil-07">
-    <img src="https://gitshine.com/card/adarshpatil-07" alt="Adarsh's GitHub Stats" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <a href="https://www.linkedin.com/in/adarshpatil07/">
+          <img src="https://img.icons8.com/color/48/linkedin.png" width="28" height="28" alt="LinkedIn"><br>
+          <b>LinkedIn</b>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="mailto:adarshpatil.tech07@gmail.com">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email"><br>
+          <b>Email</b>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://leetcode.com/u/adarshpatil07/">
+          <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode"><br>
+          <b>LeetCode</b>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://codeforces.com/profile/adarshpatil.tech07">
+          <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="28" height="28" alt="Codeforces"><br>
+          <b>Codeforces</b>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://x.com/AdarshBuilds07">
+          <img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X"><br>
+          <b>X</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 04 / 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://gitshine.com/stats/adarshpatil-07">
+    <img src="https://gitshine.com/card/adarshpatil-07?theme=dark" alt="Adarsh's GitHub Stats" />
+  </a>
+</p>
+
+### 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contribution-card.vercel.app/api?username=adarshpatil-07&limit=5&order_by=contributions&theme=github_dark" alt="My GitHub Contribution Stats"/>
+</p>
+
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64" alt="YOLO"/>
@@ -142,32 +149,20 @@ Currently seeking **internship opportunities** to gain practical experience and 
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" alt="Quickdraw"/>
 </p>
 
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contribution-card.vercel.app/api?username=adarshpatil-07&limit=5&order_by=contributions&theme=github_dark" alt="My GitHub Contribution Stats"/>
-</p>
-
----
-
-## Quote
-
-<p align="center">
-  <b><i>"Talk is cheap. Show me the code."</i></b>
-  <br>
-  — Linus Torvalds
-</p>
-
----
-
-## 🐍 Feeding on My Contributions
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adarshpatil-07/adarshpatil-07/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
+</p>
+
+---
+
+## 05 / Quote
+
+<p align="center">
+  <b><i>"Talk is cheap. Show me the code."</i></b>
+  <br>
+  — Linus Torvalds
 </p>
