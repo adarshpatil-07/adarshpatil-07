@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <p align="center">
   <img width="1600" height="270" alt="image" src="https://github.com/user-attachments/assets/8c103d4d-83d3-494c-8267-09d0f20c54ac" />
- <width="100%" alt="Adarsh Patil Banner" 
+ <width="100%" alt="Adarsh Patil Banner" />
 </p>
 
 <h1 align="center">Adarsh Patil</h1>
